@@ -1,4 +1,12 @@
-**Elas Programam**
+---
+title: Elas Programam
+date: 2022/3/20
+description: Como surgiu a comunidade liderada por Silvia Coelho.
+tag: events
+author: You
+---
+
+# Elas Programam
 
 Elas Programam surgiu há 4 anos com o objetivo de inspirar e ajudar as mulheres no início ou em transição de carreira para o mercado de Tecnologia. A ideia sempre foi, antes de tudo, conscientizar a sociedade de que Tecnologia é, sim, "coisa de mulher" e nós podemos e devemos ganhar cada vez mais espaço nesse mercado. 
 
