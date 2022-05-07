@@ -6,7 +6,7 @@ tag: events
 author: You
 ---
 
-**FRONTIN**
+# FRONTIN
 
 O ano era 2012. Devs decidiram fechar uma casa noturna em São Paulo e reunir pessoas para falar de programação em um evento chamado FRONTIN Sampa, ﻿11 anos depois, a comunidade cresceu, e produz 6 eventos diferentes para mais de 40.000 pessoas seguidoras nas redes sociais.\
 Com o propósito de gerar transformação social através da educação e tecnologia, a FRONTIN reúne pessoas desenvolvedoras, escolas e empresas em torno da programação.
