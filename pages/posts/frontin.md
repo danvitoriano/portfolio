@@ -1,3 +1,11 @@
+---
+title: O que é a FRONTIN?
+date: 2022/1/1
+description: Um pouco sobre a comunidade tech que ajudo a organizar.
+tag: events
+author: You
+---
+
 **FRONTIN**
 
 O ano era 2012. Devs decidiram fechar uma casa noturna em São Paulo e reunir pessoas para falar de programação em um evento chamado FRONTIN Sampa, ﻿11 anos depois, a comunidade cresceu, e produz 6 eventos diferentes para mais de 40.000 pessoas seguidoras nas redes sociais.\
