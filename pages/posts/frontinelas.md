@@ -6,7 +6,9 @@ tag: events
 author: You
 ---
 
-# FRONTIN e Elas Programam se unem para oferecer evento de programação exclusivo para mulheres no Teatro Gazeta em São Paulo
+# FRONTIN Elas Programam
+
+## FRONTIN e Elas Programam se unem para oferecer evento de programação exclusivo para mulheres no Teatro Gazeta em São Paulo
 
 Camila Achutti, Silvia Coelho, Nina Talks, Simara Conceição, Rafa Ballerini e Keit Oliveira são algumas das 18 atrações confirmadas no evento
 
