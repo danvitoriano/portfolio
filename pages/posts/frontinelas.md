@@ -10,7 +10,7 @@ author: You
 
 Camila Achutti, Silvia Coelho, Nina Talks, Simara Conceição, Rafa Ballerini e Keit Oliveira são algumas das 18 atrações confirmadas no evento
 
-**Abril, 2022 -** Depois de 2 anos longe dos palcos, 2022 começa para a turma da programação e tecnologia com um novo evento - e presencial. Em parceria com Silvia Coelho da comunidade Elas Programam, a comunidade FRONTIN, existente há mais de 11 anos em São Paulo anuncia a conferência FRONTIN {elas} programam_, um evento exclusivo para mulheres que acontecerá em 30 de abril no Teatro Gazeta em São Paulo e receberá 18 atrações, entre os nomes temos 
+**Abril, 2022 -** Depois de 2 anos longe dos palcos, 2022 começa para a turma da programação e tecnologia com um novo evento - e presencial. Em parceria com Silvia Coelho da comunidade Elas Programam, a comunidade FRONTIN, existente há mais de 11 anos em São Paulo anuncia a conferência FRONTIN Elas Programam, um evento exclusivo para mulheres que acontecerá em 30 de abril no Teatro Gazeta em São Paulo e receberá 18 atrações, entre os nomes temos 
 
 Silvia Coelho, Camila Achutti, Simara Conceição, Kamila Santos, Keit Oliveira, Vanessa Riboldi. O evento acontecerá dia 30 de abril das 10h às 17h no Teatro Gazeta em São Paulo.
 
